@@ -4,6 +4,8 @@
 MyWifi mw;
 Suhu Fl;
 
+int T1,T2;
+
 void setup() {
   // put your setup code here, to run once:
 mw.begin();
